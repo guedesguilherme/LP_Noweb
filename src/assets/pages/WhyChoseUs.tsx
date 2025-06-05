@@ -32,7 +32,7 @@ const WhyChoseUs = () => {
       <section className="flex flex-col lg:flex-row gap-8 md:gap-12 mt-12 sm:mt-16 md:mt-20">
         <div className="w-full lg:w-2/3">
           <RoundedImage 
-            src="public/Images/BannerWhyChoseUsPage.jpg"
+            src="public/images/BannerWhyChoseUsPage.jpg"
             alt="Por que escolher nossa empresa"
             className="w-full h-auto aspect-video md:aspect-[3/2]"
           />
