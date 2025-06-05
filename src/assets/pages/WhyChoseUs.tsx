@@ -1,7 +1,7 @@
 import { PrimaryButton } from "../components/ButtonComponents"
 import { GenericContainer } from "../components/CardComponent"
 import { RoundedImage } from "../components/ImageComponent"
-import { Header1, Paragraph, InfosComponent, InfosComponentWhyCUS } from "../components/TextComponent"
+import { Header1, Paragraph, InfosComponentWhyCUS } from "../components/TextComponent"
 
 const WhyChoseUs = () => {
   return (
